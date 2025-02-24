@@ -68,7 +68,7 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> B.S. in Computer Science </strong> - Bannari Amman instittute of technology University
+                  <strong> B.E. in Computer Science Engineering </strong> - Bannari Amman instittute of technology 
                   (2022-2026)
                 </li>
                 <li>
